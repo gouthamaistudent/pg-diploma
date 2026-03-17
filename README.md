@@ -22,9 +22,12 @@ The goal of this repository is to **track my progress, showcase practical implem
 pg-diploma
 │
 ├── python-programming
-│   ├── 
-│   ├── 
-
+│   ├──notebook
+│   │ ├──functions_in_python.ipynb
+│   │ ├──python_loops_mini_challenge.ipynb
+│   ├── python
+│   │ ├──functions_in_python.py
+│   │ ├──python_loops_mini_challenge.py 
 
 ```
 
